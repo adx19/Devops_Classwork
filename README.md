@@ -28,7 +28,8 @@
 - Learned to take input from shell and use it
 - Learned to run commands, get output save in log directly from shell
 - Learned about variable in shell scripting
-
+- Learned about applying if and while loops in shell scripting
+- Practiced the while loop and if loop as homework and is implemented.
 **Implementation can be found in the repo**
 
 ------------------
